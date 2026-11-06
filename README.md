@@ -26,6 +26,7 @@ Entry for *Code for a Billion 2026*, track **Health**.
 
 - **Live app:** https://ayushman-sahayak.designmaster.workers.dev
 - **Public usage numbers:** https://ayushman-sahayak.designmaster.workers.dev/stats (JSON: `/api/stats`)
+- **Submission:** https://github.com/karlmehta/code-for-a-billion/issues/64
 - **Demo video (84 s):** https://youtu.be/fA2KlDpARQs (same file: [video/demo.mp4](video/demo.mp4))
 
 - Static web app: `index.html`, `app.js`, `rules.js`, `i18n.js`, `styles.css`, `stats.html`. No
