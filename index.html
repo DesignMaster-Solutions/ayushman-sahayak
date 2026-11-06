@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ayushman Sahayak · PM-JAY card refused or asked to pay?</title>
+<meta name="description" content="Hospital refused the Ayushman card, said it is not in PM-JAY or asked for money? See what the scheme says, how to check officially and how to complain, in English and Hindi. No Aadhaar or card number asked.">
+<meta name="theme-color" content="#0f4c5c">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230f4c5c'/%3E%3Cpath d='M16 8v16M8 16h16' stroke='%23f2a541' stroke-width='4'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<header class="top">
+<div class="wrap top-row">
+<strong data-t="title">Ayushman Sahayak</strong>
+<div class="lang" role="group" aria-label="Language">
+<button type="button" data-lang="en" lang="en">EN</button>
+<button type="button" data-lang="hi" lang="hi">हिंदी</button>
+</div>
+</div>
+</header>
+<main class="wrap" id="main" aria-live="polite">
+<section id="intro">
+<h1 data-t="tagline" tabindex="-1"></h1>
+<p data-t="intro"></p>
+<button type="button" class="primary" id="start" data-t="start"></button>
+</section>
+<section id="quiz" hidden>
+<p class="step" id="step"></p>
+<div class="bar"><span id="bar"></span></div>
+<h2 id="question" tabindex="-1"></h2>
+<div class="answers" id="answers"></div>
+<div class="actions">
+<button type="button" class="link" id="back" data-t="back"></button>
+</div>
+</section>
+<section id="result" hidden>
+<div class="urgent" id="urgent" hidden>
+<p><b data-t="urgent_title"></b> <span data-t="urgent_text"></span></p>
+<a class="btn" href="tel:14555">📞 14555</a>
+</div>
+<h2 data-t="sec_rules" tabindex="-1"></h2>
+<ul class="rules" id="rules"></ul>
+<h2 data-t="sec_checks"></h2>
+<ul class="checks" id="checks"></ul>
+<h2 data-t="sec_say"></h2>
+<p class="say" id="say"></p>
+<h2 data-t="sec_carry"></h2>
+<ul class="points" id="carry"></ul>
+<h2 data-t="sec_griev"></h2>
+<p><a class="btn call" href="tel:14555">📞 <span data-t="g_helpline"></span></a></p>
+<ul class="griev" id="griev"></ul>
+<p class="hint" data-t="g_time"></p>
+<div id="letter"></div>
+<div class="worked" id="worked">
+<h3 data-t="worked_q"></h3>
+<div class="actions" id="worked-btns">
+<button type="button" data-worked="yes" data-t="worked_yes"></button>
+<button type="button" data-worked="no" data-t="worked_no"></button>
+<button type="button" data-worked="notyet" data-t="worked_notyet"></button>
+</div>
+<p id="worked-thanks" data-t="worked_thanks" hidden></p>
+</div>
+<button type="button" class="link" id="restart" data-t="restart"></button>
+</section>
+</main>
+<footer class="wrap foot">
+<p><span data-t="footer_gov"></span> <a href="https://github.com/DesignMaster-Solutions/ayushman-sahayak#every-rule-and-its-source" target="_blank" rel="noopener" data-t="footer_sources"></a>. <span data-t="footer_med"></span> · <a href="/stats" data-t="stats_link"></a></p>
+</footer>
+</body>
+</html>
