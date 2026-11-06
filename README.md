@@ -24,6 +24,10 @@ anyone will get back, and gives no medical advice.
 
 Entry for *Code for a Billion 2026*, track **Health**.
 
+- **Live app:** https://ayushman-sahayak.designmaster.workers.dev
+- **Public usage numbers:** https://ayushman-sahayak.designmaster.workers.dev/stats (JSON: `/api/stats`)
+- **Demo video (84 s):** https://youtu.be/fA2KlDpARQs (same file: [video/demo.mp4](video/demo.mp4))
+
 - Static web app: `index.html`, `app.js`, `rules.js`, `i18n.js`, `styles.css`, `stats.html`. No
   framework, no dependency, no paid API, no cookies, no account. 59,927 bytes shipped in total
   (test: under 100 KB), so it loads on a cheap phone over 3G. One step per screen, big buttons with
