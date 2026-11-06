@@ -169,8 +169,8 @@ test('no rules.js output contains a 12-digit number or 1800-11-4477 (the Sarathi
 });
 
 test('every phone number in rules.js output is 14555, 1800-110-770 or +91 72908 23838', () => {
-  // URLs carry PIB release ids (7 digits), not phone numbers.
-  const found = everything().replace(/https:\/\/[^"\\]*/g, '').match(/\+?\d[\d -]{4,}\d/g) || [];
+  // URLs carry PIB release ids (7 digits) and tel: links the digits only; the shown numbers are checked.
+  const found = everything().replace(/(https:\/\/|tel:)[^"\\]*|(PIB|पीआईबी) \d+/g, '').match(/\+?\d[\d -]{4,}\d/g) || [];
   for (const p of found) assert.ok(['14555', '1800-110-770', '+91 72908 23838'].includes(p), p);
 });
 
