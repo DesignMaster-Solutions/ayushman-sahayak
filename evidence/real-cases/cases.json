@@ -1,0 +1,299 @@
+{
+ "_about": "Real published decisions (State Consumer Commissions and High Courts) where an Ayushman Bharat PM-JAY beneficiary, or a holder of a state card merged with it, was charged by an empanelled hospital, told the card did not work or the hospital was not empanelled, or refused admission. Every fact comes from the decision text saved in sources/<doc>.txt; null means the decision does not say it. situation and stage use the app's screens (stage = where the person was when the hospital refused or charged). amount_charged is rupees taken from the patient, only when the decision states it. Every quote is verbatim in the saved text after collapsing whitespace. Collected from indiankanoon.org on 2026-11-06; indiankanoon.org returned HTTP 403 (Cloudflare challenge) to direct curl that day, so search and doc pages were fetched with curl through the r.jina.ai reader.",
+ "cases": [
+  {
+   "id": "cg-scdrc-2023-renu-gupta",
+   "url": "https://indiankanoon.org/doc/196621810/",
+   "source": "sources/196621810.txt",
+   "forum": "Chhattisgarh State Consumer Disputes Redressal Commission (appeal from District Commission, Raigarh)",
+   "case_number": "FA/20/333 (from CC/2020/494)",
+   "decision_date": "2023-05-10",
+   "state": "Chhattisgarh (Raigarh)",
+   "people": 1,
+   "what_happened": "Admitted on 18.04.2019 for a large abscess after the hospital said the treatment was covered by her Ayushman Card; later it demanded cash and said it was not covered. She paid Rs 16,200 plus medicines (bill Rs 14,700 after concession). The Ayushman helpline 104 told her the treatment was covered; the CMHO's report to the CEO of Ayushman Bharat - PM-JAY evam Mukhyamantri Swasthya Beema Yojana found the hospital at fault for her and five other patients. The hospital said she chose an AC room; it produced no bill or record to show that.",
+   "situation": "asked_to_pay",
+   "stage": "admitted",
+   "age70": null,
+   "amount_charged": 14700,
+   "result": "District Commission (06.03.2020) ordered refund of Rs 14,700, Rs 3,000 for mental agony and Rs 2,000 costs within a month, else 9% interest; the State Commission dismissed the hospital's appeal and left it free to claim the amount from the insurer under the Ayushman Card.",
+   "quotes": [
+    {
+     "text": "The appellant / opposite party assured that treatment will be covered under Ayushman Card and admitted the respondent / complainant but later on they demanded cash amount and said the treatment will not be covered under Ayushman Card.",
+     "where": "para 2"
+    },
+    {
+     "text": "Director Health Services cum Chief Executive Officer, Ayushman Bharat - Pradhanmantri Jan Arogya Yojana evam Mukhyamantri Swasthya Beema Yojana, Raipur (C.G.)",
+     "where": "para 9"
+    },
+    {
+     "text": "This report itself is sufficient to prove the appellant / opposite party guilty of deficiency in service in not providing benefit of the Ayushman Card to the respondent / complainant and collecting Rs.14,700/- for her treatment.",
+     "where": "para 9"
+    }
+   ],
+   "note": null
+  },
+  {
+   "id": "cg-scdrc-2024-prem-singh-chauhan",
+   "url": "https://indiankanoon.org/doc/173353524/",
+   "source": "sources/173353524.txt",
+   "forum": "Chhattisgarh State Consumer Disputes Redressal Commission (cross appeals from District Commission, Raipur)",
+   "case_number": "FA/24/62 and FA/24/68 (from CC/2019/54)",
+   "decision_date": "2024-06-04",
+   "state": "Chhattisgarh (Raipur)",
+   "people": 1,
+   "what_happened": "Knee replacement at V.Y. Hospital, Raipur, in Nov 2018. He held a Smart Card under Ayushman Bharat - National Health Protection Mission under the Mukhyamantri Swasthya Bima Yojana (cover Rs 50,000). He deposited Rs 2,00,000 with the card; the hospital kept Rs 1,30,000 and returned Rs 70,000. Pre-authorisation was approved for both knees; after one knee he refused the second, was discharged on 26.11.2018 and the hospital cancelled the pre-authorisation on 29.11.2018, so no scheme benefit was given. He said staff told him he had to stay 7 days to get the benefit.",
+   "situation": "asked_to_pay",
+   "stage": "admitted",
+   "age70": null,
+   "amount_charged": 130000,
+   "result": "District Commission (21.12.2023) had awarded Rs 50,000 excess plus Rs 50,000 card benefit with 6% interest, Rs 25,000 compensation and Rs 5,000 costs; the State Commission allowed the hospital's appeal, set that aside, and dismissed his appeal for more.",
+   "quotes": [
+    {
+     "text": "The complainant informed Dr. Saxena that he has Smart Card issued under Ayushman Bharat - National Health Protection Mission under Mukhyamantri Swasthya Bima Yojana",
+     "where": "para 2"
+    },
+    {
+     "text": "the complainant was discharged on 26.11.2018 at 18:50 hrs without giving benefit of MSBY despite depositing the Smart Card.",
+     "where": "para 2"
+    },
+    {
+     "text": "Thus, it cannot be said that because of acts of the opposite party, benefit under the MSBY scheme could not be provided to the complainant.",
+     "where": "para 9"
+    }
+   ],
+   "note": "The beneficiary lost: the Commission held the cancelled pre-authorisation followed from his own refusal of the second knee, and that the package rate list alone did not prove excess charging."
+  },
+  {
+   "id": "uk-hc-2024-mohit-singh-bisht",
+   "url": "https://indiankanoon.org/doc/144950149/",
+   "source": "sources/144950149.txt",
+   "forum": "Uttarakhand High Court",
+   "case_number": "C528 No. 71 of 2024",
+   "decision_date": "2024-07-22",
+   "state": "Uttarakhand (Ranikhet, Haldwani)",
+   "people": 1,
+   "what_happened": "His father, an Ayushman Card holder, was admitted to Ranikhet Government Hospital on 06.04.2023 with a head injury, later to Pride Hospital, Haldwani, and died on 02.05.2023. Despite the card the son was told to buy medicine from a particular shop and spent about Rs 50,000 (the decision does not say at which hospital). A three-member committee of the District Magistrate (report 19.07.2023) found the patient had not been given the benefit due and recommended proceedings against the doctor, who then sued the son for defamation.",
+   "situation": "asked_to_pay",
+   "stage": null,
+   "age70": null,
+   "amount_charged": 50000,
+   "result": "Notice issued; the defamation case against the son was stayed till the next date, the court noting the committee's finding that the Ayushman benefit was not given.",
+   "quotes": [
+    {
+     "text": "It is submitted that despite the fact that the patient was AYUSHMAN Card Holder, the applicant was instructed to get medicine from a particular medical shop and at about Rupees Fifty Thousand expenses were incurred by the present applicant.",
+     "where": "para 3"
+    },
+    {
+     "text": "the said committee submits its report on 19.07.2023 by observing that despite the AYUSHMAN Card Holder, the benefit, which has to be given to the patient, that has not been given",
+     "where": "para 4"
+    }
+   ],
+   "note": "Amount is 'about Rupees Fifty Thousand' as the decision puts it. Interim order in a defamation case brought by the doctor; the facts are the son's version and the committee report."
+  },
+  {
+   "id": "up-hc-2024-ramesh-chandra",
+   "url": "https://indiankanoon.org/doc/115349447/",
+   "source": "sources/115349447.txt",
+   "forum": "Allahabad High Court, Lucknow Bench (Division Bench)",
+   "case_number": "Writ C No. 5023 of 2024",
+   "decision_date": "2024-05-31",
+   "state": "Uttar Pradesh (Lucknow)",
+   "people": 1,
+   "what_happened": "Holder of an Ayushman Card under AB-PMJAY (cover Rs 5,00,000). Ill in April 2024, he tried to get admitted to private hospitals near his home; all said they were not empanelled because a State Health Agency letter of 09.02.2024 requires at least 100 beds. He challenged that criterion.",
+   "situation": "not_empanelled",
+   "stage": "before",
+   "age70": null,
+   "amount_charged": null,
+   "result": "Disposed of: the court treated it as a proxy petition for Lucknow nursing homes, relied on the dismissal of PIL 200 of 2024 upholding the 100-bed criterion, and said the hospitals may approach the authority themselves.",
+   "quotes": [
+    {
+     "text": "he has been given Ayushman Card issued by opposite party no.2 under Ayushman Bharat Pradan Mantri Jan Arogya Yojna and he has been insured Rs.5,00,000/- for medical facilities.",
+     "where": "para 3"
+    },
+    {
+     "text": "tried to get admission in a private hospital in the vicinity of his residence, but all such hospitals have informed the petitioner that they are not empanelled under the Ayushman Bharat Pradan Mantri Jan Arogya Yojna as they are not qualified in terms of the letter dated 09.02.2024.",
+     "where": "para 3"
+    },
+    {
+     "text": "It appears that this petition has been filed as a proxy petition on behalf of various nursing homes being run in the city of Lucknow",
+     "where": "para 7"
+    }
+   ],
+   "note": null
+  },
+  {
+   "id": "up-hc-2026-surgimed-hospital",
+   "url": "https://indiankanoon.org/doc/120730602/",
+   "source": "sources/120730602.txt",
+   "forum": "Allahabad High Court (Division Bench)",
+   "case_number": "Writ C No. 39120 of 2026",
+   "decision_date": "2026-09-28",
+   "state": "Uttar Pradesh",
+   "people": 1,
+   "what_happened": "An AB-PMJAY empanelled hospital charged Rs 9,000 for two units of blood for a two-month-old child with blood cancer in the ICU, instead of giving it free under the scheme, and the transfusions were not entered in the Bed Head Ticket. The State Empanelment Committee (SACHIS) struck off its empanelment on 19.08.2026; the hospital's doctor admitted the lapses.",
+   "situation": "asked_to_pay",
+   "stage": "admitted",
+   "age70": null,
+   "amount_charged": 9000,
+   "result": "Hospital's writ dismissed; the de-empanelment stands (empanelment is a privilege, not a justiciable right).",
+   "quotes": [
+    {
+     "text": "the petitioner-Hospital provided two units of blood to a two months old child suffering from blood cancer on charge of a sum of Rs. 9,000/-, instead of providing the blood free under the Ayushman Bharat-Pradhanmantri Jan Arogya Yojna.",
+     "where": "para 2"
+    },
+    {
+     "text": "a perusal of the impugned order also shows that the Doctor, who appeared on behalf of the petitioner before the State Empanelment Committee, admitted to the lapses.",
+     "where": "para 3"
+    }
+   ],
+   "note": "The hospital was the petitioner; the child's family is not named."
+  },
+  {
+   "id": "mp-hc-2021-deepanshu-kumar-payasi",
+   "url": "https://indiankanoon.org/doc/154689650/",
+   "source": "sources/154689650.txt",
+   "forum": "Madhya Pradesh High Court, Jabalpur (Division Bench)",
+   "case_number": "CONC-1638-2021",
+   "decision_date": "2021-09-02",
+   "state": "Madhya Pradesh (Satna)",
+   "people": 1,
+   "what_happened": "Ayushman Card holder (Ayushman Bharat Niramayam). Admitted with COVID-19 to M.P. Birla Hospital, Satna, 08.05.2021 to 18.05.2021; the hospital, empanelled and approved for COVID-19 treatment under Ayushman Bharat, did not give the scheme benefit and charged him; total expenses Rs 4 lakh. His complaint to the authority got no action, so he filed contempt of the court's 19.04.2021 order that card holders must not be dishonoured.",
+   "situation": "card_not_working",
+   "stage": null,
+   "age70": null,
+   "amount_charged": 400000,
+   "result": "Contempt disposed of with a direction to the CEO, Ayushman Bharat (Niramayam), Bhopal, to enquire into his complaint and act within two months after hearing the hospital.",
+   "quotes": [
+    {
+     "text": "The petitioner submits that he is an Ayushman Card holder and falling under the Ayushman Bharat Niramayam beneficiary category.",
+     "where": "p. 1"
+    },
+    {
+     "text": "The respondent No.2 did not give the benefit of the Scheme and charged the amount from the petitioner.",
+     "where": "p. 1"
+    },
+    {
+     "text": "Ayushman Bharat Yojana but it is not accepting the Ayushman Card",
+     "where": "p. 2"
+    }
+   ],
+   "note": "Rs 4 lakh is 'the total expenses he was required to spend', as the decision says; when in the stay he was charged is not stated."
+  },
+  {
+   "id": "mp-hc-2021-covid-suo-motu-ashok-dagliya",
+   "url": "https://indiankanoon.org/doc/55512489/",
+   "source": "sources/55512489.txt",
+   "forum": "Madhya Pradesh High Court, Jabalpur (Division Bench)",
+   "case_number": "W.P. No. 8914/2020 (suo motu) with W.P. No. 20889/2020 and W.P. No. 8991/2021",
+   "decision_date": "2021-04-30",
+   "state": "Madhya Pradesh",
+   "people": null,
+   "what_happened": "During the second COVID-19 wave the Amicus Curiae and intervenors told the court that, despite its 19.04.2021 direction, private hospitals were refusing to admit and treat patients entitled to cashless treatment on an Ayushman Card, BPL card or CGHS card, and the State had not ensured compliance.",
+   "situation": "refused_admission",
+   "stage": "before",
+   "age70": null,
+   "amount_charged": null,
+   "result": "Court reiterated that approved hospitals shall not refuse treatment to patients covered by these cashless schemes and that the State shall act against hospitals on any complaint.",
+   "quotes": [
+    {
+     "text": "the private hospitals are refusing to admit and treat those patients who are entitled to cashless treatment facility in terms of Ayushman Card (under Ayushman Bharat Yojana)",
+     "where": "para 21"
+    },
+    {
+     "text": "those hospitals, which are approved for treatment of the patients covered by those cashless schemes of the Government, shall not refuse to provide treatment to concerned patients and if any complaint in that behalf is received, the State Government shall take appropriate action against such private Hospitals/Nursing Homes.",
+     "where": "para 21"
+    }
+   ],
+   "note": "Public interest case: no individual patient is named."
+  },
+  {
+   "id": "pb-hr-hc-2026-bijender-tak",
+   "url": "https://indiankanoon.org/doc/66165836/",
+   "source": "sources/66165836.txt",
+   "forum": "Punjab and Haryana High Court",
+   "case_number": "CRM-M-34960-2026",
+   "decision_date": "2026-07-28",
+   "state": "Haryana (Uklana, Hisar)",
+   "people": 1,
+   "what_happened": "Sonia delivered at Vidhata Nursing Home on 03.03.2026; her husband said they paid the doctor and were discharged on 07.03.2026, and that the doctor asked for her Ayushman Card and Aadhaar 'for paperwork' that day. The Ayushman Portal later showed Rs 48,000 pre-authorised and claimed for the baby, shown as admitted until 15.03.2026; the State says five patients were shown as admitted but only two actually were. FIR for cheating and forgery against the proprietor.",
+   "situation": "asked_to_pay",
+   "stage": "discharged",
+   "age70": null,
+   "amount_charged": null,
+   "result": "Proprietor's anticipatory bail refused.",
+   "quotes": [
+    {
+     "text": "His was completely healthy and after making payment to the doctor, they were discharged and went home on 07.03.2026 on the advice of the doctor.",
+     "where": "FIR, quoted in para 2"
+    },
+    {
+     "text": "He further stated that on the same day, the doctor had asked for the Ayushman Card and Aadhaar Card of his wife Sonia for paperwork.",
+     "where": "FIR, quoted in para 2"
+    },
+    {
+     "text": "It has been found from the Ayushman Portal that the treatment expenses amounting to Rs.48,000/- in respect of Sonia W/o Sandeep have been claimed by Vidhata Nursing Home, Uklana",
+     "where": "para 4"
+    }
+   ],
+   "note": "Allegations in an FIR quoted in a bail order. The amount the family paid is not stated; Rs 48,000 is the scheme claim, not money taken from them."
+  },
+  {
+   "id": "jk-hc-2025-shifa-medical-centre",
+   "url": "https://indiankanoon.org/doc/101964985/",
+   "source": "sources/101964985.txt",
+   "forum": "High Court of Jammu & Kashmir and Ladakh, Srinagar",
+   "case_number": "WP(C) 130/2025",
+   "decision_date": "2025-01-17",
+   "state": "Jammu and Kashmir",
+   "people": null,
+   "what_happened": "The State Health Agency suspended an AB PM-JAY empanelled hospital (order 11.01.2025) after a show cause notice of 18.12.2024; the State told the court it had received repeated complaints that the hospital took out of pocket money from patients covered under the scheme.",
+   "situation": "asked_to_pay",
+   "stage": null,
+   "age70": null,
+   "amount_charged": null,
+   "result": "Interim order: suspension kept in abeyance till the next date; the SHA to finish the disciplinary enquiry after giving the hospital two weeks to reply.",
+   "quotes": [
+    {
+     "text": "the respondents have been receiving repeated complaints against the petitioner-hospital in respect of receipt of out of pocket money from the patients covered under the scheme and whose cases have been entertained and processed by the petitioner-hospital.",
+     "where": "para 3"
+    },
+    {
+     "text": "operation of the suspension order bearing No. 03 SHA, J&K of 2025 dated 11.01.2025 is kept in abeyance.",
+     "where": "para 8"
+    }
+   ],
+   "note": "Allegation made by the State's counsel; no patient is named and the number of complaints is not given."
+  },
+  {
+   "id": "cg-hc-2026-prayank-kumar-khare",
+   "url": "https://indiankanoon.org/doc/117340087/",
+   "source": "sources/117340087.txt",
+   "forum": "Chhattisgarh High Court (Division Bench)",
+   "case_number": "CRMP No. 2259 of 2026",
+   "decision_date": "2026-08-31",
+   "state": "Chhattisgarh (Ambikapur, Surguja)",
+   "people": 1,
+   "what_happened": "Rajendra Prasad Jaiswal was taken to Laxminarayan Hospital, Ambikapur, on 17.04.2026 and told angioplasty with three stents could be paid through his Ayushman Card. Later the hospital said the card 'had been blocked' and he must pay cash; the family paid Rs 1,60,000 including medicines. A check of the card showed the hospital had also drawn Rs 1,50,460 from it, only two stents were put in, and no bills were given. His nephew filed an FIR for cheating.",
+   "situation": "card_not_working",
+   "stage": "admitted",
+   "age70": null,
+   "amount_charged": 160000,
+   "result": "Hospital manager's petition to quash the FIR dismissed; the investigation continues.",
+   "quotes": [
+    {
+     "text": "But after some time, the hospital management told him that the patient's Ayushman Card had been blocked due to some reason, and therefore he would have to make the payment in cash.",
+     "where": "para 3"
+    },
+    {
+     "text": "Due to the condition of the patient and being scared of the problem explained by the doctor, he paid Rs. 1,60,000/- including medicines.",
+     "where": "para 3"
+    },
+    {
+     "text": "it was found that the hospital management had also taken out the sum of Rs. 1,50,460/- from the Ayushman Card",
+     "where": "para 3"
+    }
+   ],
+   "note": "Allegations in the FIR; the hospital says its bill was Rs 4,93,814."
+  }
+ ]
+}

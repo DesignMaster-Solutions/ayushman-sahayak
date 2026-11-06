@@ -1,0 +1,360 @@
+https://pib.gov.in/PressReleseDetailm.aspx?PRID=1949844 (fetched 06/11/2026)
+
+
+
+Press Release: Press Information Bureau
+
+Press Release:Press Information Bureau
+
+JavaScript must be enabled in order for you to use the Site in standard view. However,
+it seems JavaScript is either disabled or not supported by your browser. To use
+standard view, enable JavaScript by changing your browser options.
+
+Skip to Content
+
+AccessibilityStatement
+
+Screen Reader Access
+
+Region
+
+PIB Delhi
+PIB Mumbai
+PIB Hyderabad
+PIB Chennai
+PIB Chandigarh
+PIB Kolkata
+PIB Bengaluru
+PIB Bhubaneswar
+PIB Ahmedabad
+PIB Guwahati
+PIB Thiruvananthpuram
+PIB Imphal
+PIB Mizoram
+PIB Agartala
+PIB Gangtok
+PIB Kohima
+PIB Shillong
+PIB Itanagar
+PIB Lucknow
+PIB Bhopal
+PIB Jaipur
+PIB Patna
+PIB Ranchi
+PIB Shimla
+PIB Raipur
+PIB Jammu and Kashmir
+PIB Vijayawada
+PIB Dehradun
+National
+
+Language
+
+हिन्दी
+English
+
+Search
+
+-->
+
+Press Information Bureau
+
+Ministry of Information and Broadcasting, Government of India
+
+-->
+
+About Us About PIB
+Main Functions
+Organizational Setup
+Photo Gallery of PrDGs/PIOs
+Telephone Nos of PIB Officers of Hqrs
+
+Press Releases All Releases
+PMO Releases
+All Releases 2004 to 2017
+
+Gallery Photos
+Videos
+E-Booklets
+InfoGraphics
+Webcast Videos
+All Events
+YEAR END REVIEW - 2025
+
+Research Unit Backgrounder
+Factsheets
+FAQ
+Features
+Independence Day 2026 (RU)
+Budget Series 2026-27
+E-Books
+12 Years of Government
+
+Media Facilitation Accreditations
+Facilities
+Media Invitations
+Media List
+JWS
+
+Archives About Archives
+1947-2001
+2002-2003
+2004 Onwards
+
+Fact Check Unit About Fact Check Unit
+Submit for Fact Check
+FAQ
+Fact Check in Numbers
+Fact Check Done
+Fraudulent Websites
+Fact Checks Operation Sindoor
+
+Ministry of Health and Family Welfare
+
+Myths Vs Facts
+
+Media Reports claiming AB PM-JAY beneficiaries who have been declared dead on the system availing treatment at hospitals are misleading
+
+Under AB PM-JAY, hospitals are allowed to initiate request for pre-authorization upto three days post the date of admission in the hospital, during which time, patients in some cases die during treatment
+
+Posted On:
+17 AUG 2023 4:18PM by PIB Delhi
+
+There have been media reports claiming that the Comptroller and Auditor General of India (CAG) has flagged that treatments have been booked for AB PM-JAY beneficiaries who have been declared dead on the system. The reports further claim that the same beneficiary had been found to avail treatment across two hospitals at the same time . These media reports are completely misleading and ill-informed.
+
+The report of the Comptroller and Auditor General of India which contains results of the Performance Audit on Ayushman Bharat Pradhan Mantri - Jan Arogya Yojana (AB PM-JAY) covering the period September 2018 to March 2021 was placed in parliament in the Monsoon Session of 2023.
+
+It is clarified that under AB PM-JAY, hospitals are allowed to initiate request for pre-authorization upto three days post the date of admission in the hospital. This feature is enabled to avoid denial of treatment in case of limited connectivity, emergency situations, etc.
+
+In some cases, the patients got admitted and before their pre-authorization was raised, they died during the treatment. In such cases, the date of death is same as the admission date or earlier. Moreover, death has also been reported by the same hospital which raised the pre-authorization request. Thus, had the hospital intended to defraud the system, it would not have shown any interest in declaring the patient dead on IT system.
+
+It is pertinent to note that more than 50% of cases highlighted in the report have been booked by public hospitals, who have no incentive in committing fraud, as the money is reimbursed in the hospital account. Further, in case of death during treatment, hospital has to mandatorily submit mortality report.
+
+There are also many instances where the patient is admitted in the hospital as a private patient (self-paid) but subsequently on discovering about the scheme and their eligibility under the scheme, the patient requests hospital to register them under the scheme for free treatment. This feature to request for back-dated pre-authorization helps in saving out-of-pocket expenditure of the beneficiaries.
+
+Regarding same patient availing treatment in two hospitals at the same time, it may be noted that under AB PM-JAY, children up to 5 years of age avail treatment on the Ayushman Card of their parents. Accordingly, Ayushman Card can simultaneously be used for children and either of parents in two different hospitals. For example, a mother may be admitted in a hospital and she delivers a baby during treatment and the hospital where mother is availing treatment may not have neo-natal care facility available, therefore, the child may be shifted to some other hospital with neo-natal care facility is available. In this case, mother’s Ayushman Card is simultaneously being used for both, the baby and the mother. Another example can be of a father and baby being treated simultaneously in two different hospitals on the Ayushman Card of the father.
+
+Usually, mother and child avail treatment using one Ayushman Card only, and if the child dies during treatment, the hospital declares the child dead which erroneously gets registered against the card of the mother. Subsequently, when the mother comes for next treatment, she is denied services on ground of her Ayushman Card being marked as dead. In such cases, grievances are raised, and the dead flag against the card of mother is removed.
+
+It is important to note that a four-step robust claim processing system has been deployed under AB PM-JAY. At every step the veracity of hospital’s claims is examined. Further, defined triggers are run on claims to identify cases which need further examination. Such cases undergo desk and field audit. In case a hospital is found to be committing any fraud or abuse, penal actions including de-empanelment are initiated against the erring hospital.
+
+The CAG finding that one mobile number is associated with multiple beneficiaries has no operational and financial implications as beneficiary identification process under Ayushman Bharat PM-JAY is not linked with the mobile number. The mobile number is captured only for the sake of reaching out to the beneficiaries in case of any need and for collecting feedback regarding the treatment provided.
+
+Ayushman Bharat PM-JAY identifies beneficiaries through Aadhaar identification wherein the beneficiary undergoes the process of mandatory Aadhaar based e-KYC. The details fetched from the Aadhar database are matched with the source database and accordingly, the request for Ayushman card is approved or rejected based on the beneficiary details. Thus, there is no role of mobile numbers in the verification process.
+
+Further, it is also important to note that AB PM-JAY caters to a beneficiary base (bottom 40%) wherein many of them may not possess a mobile number or the mobile number keeps changing at a very frequent interval. Accordingly, NHA has provided three additional options i.e., fingerprint, iris scan and face-auth for beneficiary verification along with OTP, of which fingerprint base authentication is most used.
+
+In view of the above, treatment to the beneficiaries can’t be withheld just on the grounds that the beneficiary doesn’t carry a valid mobile number, or the mobile number given by them has changed. Accordingly, beneficiary mobile numbers have a very limited role in the AB PM-JAY treatment workflow. Also, the fact that PM-JAY is an entitlement-based scheme and not an enrolment-based scheme and therefore, the beneficiary database is fixed and cannot be edited to add new beneficiaries. Thus, mobile numbers have no role in deciding beneficiary eligibility. Therefore, it is an erroneous presumption that beneficiaries can avail treatment using mobile number.
+
+With regard to the use of the same mobile number by multiple beneficiaries, it may be noted that the mobile number is not a mandatory field for beneficiary verification. However, since there was a field for collecting mobile numbers, it is possible that some random ten-digit number was entered by the field level workers in some cases in the earlier stages of the scheme implementation. Initially, OTP based validation was not enabled as many beneficiaries either didn’t carry the mobile with them or they shared the number of their relative or neighbour. However, non-validation of mobile numbers wouldn’t impact either the correctness of the beneficiary verification process or the validity of the beneficiaries’ eligibility under the scheme.
+
+Necessary changes have subsequently been made in the current IT portal used by NHA for capturing only valid mobile numbers, in case the same is possessed by the beneficiary.
+
+National Health Authority and Ministry of Health & Family Welfare are examining in detail the recommendations of CAG performance audit report basis and necessary action is being taken to make the system more robust, efficient, and prudent by strengthening the existing IT platform and processes.
+
+****
+
+MV
+
+HFW/Mythsvs/Facts-AB PM-JAY/17 Aug 2023/4
+
+(Release ID: 1949844)
+Visitor Counter : 7694
+
+Read this release in:
+
+Urdu
+
+,
+
+Marathi
+
+,
+
+हिन्दी
+
+,
+
+Assamese
+
+,
+
+Bengali
+
+,
+
+Manipuri
+
+,
+
+Punjabi
+
+,
+
+Gujarati
+
+,
+
+Tamil
+
+,
+
+Telugu
+
+,
+
+Malayalam
+
+Ministry of Health and Family Welfare
+
+Myths Vs Facts
+
+Media Reports claiming AB PM-JAY beneficiaries who have been declared dead on the system availing treatment at hospitals are misleading
+
+Under AB PM-JAY, hospitals are allowed to initiate request for pre-authorization upto three days post the date of admission in the hospital, during which time, patients in some cases die during treatment
+
+Posted On:
+17 AUG 2023 4:18PM by PIB Delhi
+
+There have been media reports claiming that the Comptroller and Auditor General of India (CAG) has flagged that treatments have been booked for AB PM-JAY beneficiaries who have been declared dead on the system. The reports further claim that the same beneficiary had been found to avail treatment across two hospitals at the same time . These media reports are completely misleading and ill-informed.
+
+The report of the Comptroller and Auditor General of India which contains results of the Performance Audit on Ayushman Bharat Pradhan Mantri - Jan Arogya Yojana (AB PM-JAY) covering the period September 2018 to March 2021 was placed in parliament in the Monsoon Session of 2023.
+
+It is clarified that under AB PM-JAY, hospitals are allowed to initiate request for pre-authorization upto three days post the date of admission in the hospital. This feature is enabled to avoid denial of treatment in case of limited connectivity, emergency situations, etc.
+
+In some cases, the patients got admitted and before their pre-authorization was raised, they died during the treatment. In such cases, the date of death is same as the admission date or earlier. Moreover, death has also been reported by the same hospital which raised the pre-authorization request. Thus, had the hospital intended to defraud the system, it would not have shown any interest in declaring the patient dead on IT system.
+
+It is pertinent to note that more than 50% of cases highlighted in the report have been booked by public hospitals, who have no incentive in committing fraud, as the money is reimbursed in the hospital account. Further, in case of death during treatment, hospital has to mandatorily submit mortality report.
+
+There are also many instances where the patient is admitted in the hospital as a private patient (self-paid) but subsequently on discovering about the scheme and their eligibility under the scheme, the patient requests hospital to register them under the scheme for free treatment. This feature to request for back-dated pre-authorization helps in saving out-of-pocket expenditure of the beneficiaries.
+
+Regarding same patient availing treatment in two hospitals at the same time, it may be noted that under AB PM-JAY, children up to 5 years of age avail treatment on the Ayushman Card of their parents. Accordingly, Ayushman Card can simultaneously be used for children and either of parents in two different hospitals. For example, a mother may be admitted in a hospital and she delivers a baby during treatment and the hospital where mother is availing treatment may not have neo-natal care facility available, therefore, the child may be shifted to some other hospital with neo-natal care facility is available. In this case, mother’s Ayushman Card is simultaneously being used for both, the baby and the mother. Another example can be of a father and baby being treated simultaneously in two different hospitals on the Ayushman Card of the father.
+
+Usually, mother and child avail treatment using one Ayushman Card only, and if the child dies during treatment, the hospital declares the child dead which erroneously gets registered against the card of the mother. Subsequently, when the mother comes for next treatment, she is denied services on ground of her Ayushman Card being marked as dead. In such cases, grievances are raised, and the dead flag against the card of mother is removed.
+
+It is important to note that a four-step robust claim processing system has been deployed under AB PM-JAY. At every step the veracity of hospital’s claims is examined. Further, defined triggers are run on claims to identify cases which need further examination. Such cases undergo desk and field audit. In case a hospital is found to be committing any fraud or abuse, penal actions including de-empanelment are initiated against the erring hospital.
+
+The CAG finding that one mobile number is associated with multiple beneficiaries has no operational and financial implications as beneficiary identification process under Ayushman Bharat PM-JAY is not linked with the mobile number. The mobile number is captured only for the sake of reaching out to the beneficiaries in case of any need and for collecting feedback regarding the treatment provided.
+
+Ayushman Bharat PM-JAY identifies beneficiaries through Aadhaar identification wherein the beneficiary undergoes the process of mandatory Aadhaar based e-KYC. The details fetched from the Aadhar database are matched with the source database and accordingly, the request for Ayushman card is approved or rejected based on the beneficiary details. Thus, there is no role of mobile numbers in the verification process.
+
+Further, it is also important to note that AB PM-JAY caters to a beneficiary base (bottom 40%) wherein many of them may not possess a mobile number or the mobile number keeps changing at a very frequent interval. Accordingly, NHA has provided three additional options i.e., fingerprint, iris scan and face-auth for beneficiary verification along with OTP, of which fingerprint base authentication is most used.
+
+In view of the above, treatment to the beneficiaries can’t be withheld just on the grounds that the beneficiary doesn’t carry a valid mobile number, or the mobile number given by them has changed. Accordingly, beneficiary mobile numbers have a very limited role in the AB PM-JAY treatment workflow. Also, the fact that PM-JAY is an entitlement-based scheme and not an enrolment-based scheme and therefore, the beneficiary database is fixed and cannot be edited to add new beneficiaries. Thus, mobile numbers have no role in deciding beneficiary eligibility. Therefore, it is an erroneous presumption that beneficiaries can avail treatment using mobile number.
+
+With regard to the use of the same mobile number by multiple beneficiaries, it may be noted that the mobile number is not a mandatory field for beneficiary verification. However, since there was a field for collecting mobile numbers, it is possible that some random ten-digit number was entered by the field level workers in some cases in the earlier stages of the scheme implementation. Initially, OTP based validation was not enabled as many beneficiaries either didn’t carry the mobile with them or they shared the number of their relative or neighbour. However, non-validation of mobile numbers wouldn’t impact either the correctness of the beneficiary verification process or the validity of the beneficiaries’ eligibility under the scheme.
+
+Necessary changes have subsequently been made in the current IT portal used by NHA for capturing only valid mobile numbers, in case the same is possessed by the beneficiary.
+
+National Health Authority and Ministry of Health & Family Welfare are examining in detail the recommendations of CAG performance audit report basis and necessary action is being taken to make the system more robust, efficient, and prudent by strengthening the existing IT platform and processes.
+
+****
+
+MV
+
+HFW/Mythsvs/Facts-AB PM-JAY/17 Aug 2023/4
+
+(Release ID: 1949844)
+
+Media Reports claiming AB PM-JAY beneficiaries who have been declared dead on the system availing treatment at hospitals are misleading<br/><br/>Under AB PM-JAY, hospitals are allowed to initiate request for pre-authorization upto three days post the date of admission in the hospital, during which time, patients in some cases die during treatment" />
+<span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">There have been media reports claiming that the Comptroller and Auditor General of India (CAG) has flagged that treatments have been booked for AB PM-JAY beneficiaries who have been declared dead on the system. The reports further claim <span style="color:black">that the same beneficiary had been found to avail treatment across two hospitals at the same time</span>. These media reports are completely misleading and ill-informed. </span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">The report of the Comptroller and Auditor General of India which contains results of the Performance Audit on Ayushman Bharat Pradhan Mantri - Jan Arogya Yojana (AB PM-JAY) covering the period September 2018 to March 2021 was placed in parliament in the Monsoon Session of 2023.</span> </span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">It is clarified that <span style="color:black">under AB PM-JAY, hospitals are allowed to initiate request for pre-authorization upto three days post the date of admission in the hospital. This feature is enabled to avoid denial of treatment in case of limited connectivity, emergency situations, etc. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">In some cases, the patients got admitted and before their pre-authorization was raised, they died during the treatment. In such cases, the date of death is same as the admission date or earlier. Moreover, death has also been reported by the same hospital which raised the pre-authorization request. Thus, had the hospital intended to defraud the system,&nbsp; it would not have shown any interest in declaring the patient dead on IT system. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">It is pertinent to note that more than 50% of cases highlighted in the report have been booked by public hospitals, who have no incentive in committing fraud, as the money is reimbursed in the hospital account. Further, in case of death during treatment, hospital has to mandatorily submit mortality report.&nbsp; </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">There are also many instances where the patient is admitted in the hospital as a private patient (self-paid) but subsequently on discovering about the scheme and their eligibility under the scheme, the patient requests hospital to register them under the scheme for free treatment. This feature to request for back-dated pre-authorization helps in saving out-of-pocket expenditure of the beneficiaries. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">Regarding same patient availing treatment in two hospitals at the same time, it may be noted that under AB PM-JAY, children up to 5 years of age avail treatment on the Ayushman Card of their parents. Accordingly, Ayushman Card can simultaneously be used for children and either of parents in two different hospitals. For example, a mother may be admitted in a hospital and she delivers a baby during treatment and the hospital where mother is availing treatment may not have neo-natal care facility available, therefore, the child &nbsp;may be shifted to some other hospital with neo-natal care facility is available. </span>&nbsp;<span style="color:black">In this case, mother&rsquo;s Ayushman Card is simultaneously being used for both,</span> <span style="color:black">the baby and the mother. Another example can be of a father and baby being treated simultaneously in two different hospitals on the Ayushman Card of the father. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">Usually, mother and child avail treatment using one Ayushman Card only, and if the child dies during treatment, the hospital declares the child dead which erroneously gets registered against the card of the mother. Subsequently, when the mother comes for next treatment, she is denied services on ground of her Ayushman Card being marked as dead.&nbsp; In such cases, grievances are raised, and the dead flag against the card of mother is removed. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">It is important to note that a four-step robust claim processing system has been deployed under AB PM-JAY. At every step the veracity of hospital&rsquo;s claims is examined. Further, defined triggers are run on claims to identify cases which need further examination. Such cases undergo desk and field audit. In case a hospital is found to be committing any fraud or abuse, penal actions including de-empanelment are initiated against the erring hospital. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">The CAG finding that one mobile number is associated with multiple beneficiaries has no operational and financial implications as beneficiary identification process under Ayushman Bharat PM-JAY is not linked with the mobile number. The mobile number is captured only for the sake of reaching out to the beneficiaries in case of any need and for collecting feedback regarding the treatment provided. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">Ayushman Bharat PM-JAY identifies beneficiaries through Aadhaar identification wherein the beneficiary undergoes the process of mandatory Aadhaar based e-KYC. The details fetched from the Aadhar database are matched with the source database and accordingly, the request for Ayushman card is approved or rejected based on the beneficiary details. Thus, there is no role of mobile numbers in the verification process. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">Further, it is also important to note that AB PM-JAY caters to a beneficiary base (bottom 40%) wherein many of them may not possess a mobile number or the mobile number keeps changing at a very frequent interval. Accordingly, NHA has provided three additional options i.e., fingerprint, iris scan and face-auth for beneficiary verification along with OTP, of which fingerprint base authentication is most used. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">In view of the above, treatment to the beneficiaries can&rsquo;t be withheld just on the grounds that the beneficiary doesn&rsquo;t carry a valid mobile number, or the mobile number given by them has changed. Accordingly, beneficiary mobile numbers have a very limited role in the AB PM-JAY treatment workflow. Also, the fact that PM-JAY is an entitlement-based scheme and not an enrolment-based scheme and therefore, the beneficiary database is fixed and cannot be edited to add new beneficiaries. Thus, mobile numbers have no role in deciding beneficiary eligibility. Therefore, it is an erroneous presumption that beneficiaries can avail treatment using mobile number.&nbsp; </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">With regard to the use of the same mobile number by multiple beneficiaries, it may be noted that the mobile number is not a mandatory field for beneficiary verification. However, since there was a field for collecting mobile numbers, it is possible that some random ten-digit number was entered by the field level workers in some cases in the earlier stages of the scheme implementation. Initially, OTP based validation was not enabled as many beneficiaries either didn&rsquo;t carry the mobile with them or they shared the number of their relative or neighbour. However, non-validation of mobile numbers wouldn&rsquo;t impact either the correctness of the beneficiary verification process or the validity of the beneficiaries&rsquo; eligibility under the scheme. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">Necessary changes have subsequently been made in the current IT portal used by NHA for capturing only valid mobile numbers, in case the same is possessed by the beneficiary. </span></span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><span style="color:black">National Health Authority and Ministry of Health &amp; Family Welfare are examining in detail the recommendations of CAG performance audit report basis and necessary action is being taken to make the system more robust, efficient, and prudent by strengthening the existing IT platform and processes. </span></span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">****</span></span></p>
+
+<p style="text-align:justify"><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">MV</span></span></strong></p>
+
+<p><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">HFW/Mythsvs/Facts-AB PM-JAY/17 Aug 2023/4</span></span></strong></p>
+" />
+
+RTI and Contact Us
+Telephone Nos of PIB Officers of Hqrs
+WHO’S WHO AT PIB
+Telephone Number of Regional Branch Offices of PIB
+Public Grievance Officer
+CPIOs Appellate Authority List
+Information Manual
+Citizen Charter
+Transparency Audit
+Allocation Budget
+Internal Complaints Committee
+Liaison Officer
+Work Allocation
+Web Information Manager
+RTI Transparency Audit Compliance
+Delegation of financial powers
+Link for RFP uploaded on CBC website for Printing Publishing PIB handbook General Elections 2024
+Portal for Public Grievance Submission
+Amendment of RRs for Group C Posts
+Amendment of RRs for Group A and Group B posts
+Transfer Policy for CG-II & MTS of PIB Regional, Branch Offices
+More
+GOI Links
+Ministry of Information and Broadcasting
+Ministry of Agriculture & Farmers Welfare
+Ministry of Textiles
+Ministry of Commerce & Industry
+Ministry of Defence
+Ministry of Finance
+Ministry of Health and Family Welfare
+Ministry of Home Affairs
+Ministry of Housing and Urban Affairs
+Ministry of Education
+More
+
+Tenders
+Archives
+Terms & Conditions
+Copyright Policy
+Privacy Policy
+Hyperlinking Policy
+Help
+FeedBack
+Accessibility Conformance Report
+
+Site Map
+
+Contact Us
+
+The website belongs to Press Information Bureau, Ministry of Information and Broadcasting, Government of India
+
+Site is hosted by National Informatics Centre (NIC). Information is provided and updated by Press Information Bureau “A” wing, Shastri Bhawan, Dr. Rajendra Prasad Road, New Delhi – 110001, Phone: 23389338.
+
+Visitor Counter:
+56641
+
+Last Updated On:
+06 Nov 2026 8:50 PM
+
+
