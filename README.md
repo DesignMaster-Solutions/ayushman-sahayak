@@ -208,8 +208,9 @@ numbers: `/stats` (page) and `/api/stats` (JSON). Nothing is sent when the URL h
 - No State Health Agency addresses: no official text we saved gives them, and portability makes the
   answer the same in every State.
 - The Hindi was written by an AI agent. A second independent read on 07/11/2026 (own reading of every
-  `hi` key against `en`, then a second LLM as reviewer) fixed 13 strings (agreement, a missing object,
-  an ambiguous portability sentence, "is cashless" where the scheme says "meant to be"); a native
+  `hi` key against `en`, then a second LLM as reviewer) fixed 16 strings (agreement, a missing object,
+  an ambiguous portability sentence, "is cashless" where the scheme says "meant to be", "hospitals"
+  where the rule says "empanelled hospitals"); a native
   speaker's review is still missing.
 - The app cannot see anyone's eligibility; it points to the official channels that can.
 - Not a government service. No medical advice.
