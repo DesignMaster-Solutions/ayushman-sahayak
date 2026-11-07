@@ -1,0 +1,6 @@
+# ayushman-sahayak: free, open-source helper for citizens of India. Everyone is welcome, including AI crawlers.
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://ayushman-sahayak.designmaster.workers.dev/sitemap.xml
