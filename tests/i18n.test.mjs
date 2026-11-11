@@ -40,3 +40,11 @@ test('no string promises free treatment, a refund or an approved claim', () => {
     assert.doesNotMatch(v, /\bfree of cost\b|\bfor free\b|refund|will get|will be approved|guarantee|मुफ्त|मुफ़्त|मिल जाएगा|गारंटी|वापस मिल/i, `${lang}.${k}`);
   }
 });
+
+test('eligibility names the six categories PIB 2313393 lists as covered through specific initiatives', () => {
+  const en = ['construction workers', 'road accident', 'transgender', 'PM CARES', 'waste pickers', 'tribal'];
+  const hi = ['निर्माण श्रमिक', 'सड़क दुर्घटना', 'ट्रांसजेंडर', 'पीएम केयर्स', 'कचरा बीनने', 'जनजातीय'];
+  for (const w of en) assert.ok(STRINGS.en.r_eligibility.toLowerCase().includes(w.toLowerCase()), `en: ${w}`);
+  for (const w of hi) assert.ok(STRINGS.hi.r_eligibility.includes(w), `hi: ${w}`);
+  assert.ok(RULES.eligibility.sources.some((s) => s.quote.includes('Building and Other Construction Workers (BOCW)')), 'source quote');
+});

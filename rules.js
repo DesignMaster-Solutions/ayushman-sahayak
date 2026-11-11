@@ -21,6 +21,8 @@ export const RULES = {
     sources: [
       pib(2116209, 'pib_2116209_update_mar2025.txt', 'identified from the Socio-Economic Caste Census (SECC) of 2011 on the basis of 6 deprivation and 11 occupational criteria'),
       pib(2313393, 'pib_2313393_uhc_2026-09.txt', 'The scheme also includes families previously covered under the Rashtriya Swasthya Bima Yojana (RSBY).'),
+      pib(2313393, 'pib_2313393_uhc_2026-09.txt', 'Building and Other Construction Workers (BOCW) and their dependants'),
+      pib(2313393, 'pib_2313393_uhc_2026-09.txt', 'Particularly Vulnerable Tribal Groups (PVTGs) covered under the Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM-JANMAN)'),
       pib(2148359, 'pib_2148359_cards_41cr_2025.txt', 'in March 2024, the eligibility criteria were expanded to include 37 lakh Accredited Social Health Activists'),
     ],
   },
