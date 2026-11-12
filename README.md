@@ -174,11 +174,14 @@ stage when the decision does not say; every age answer): every result has a grie
 
 ## Tests and mutation check
 
-`npm test` runs 57 tests (`node --test`): the hard rules above, the request text in both languages
+`npm test` runs 63 tests (`node --test`): the hard rules above, the request text in both languages
 (forbidden words and numbers, blanks kept, rule cited), phone numbers, en/hi keys identical and
 non-empty, the counter Worker (valid events counted; 405, 400, 404 and unknown situation rejected;
 nothing else stored), `?nostats` on the real counter lines of `app.js`, CSS `[hidden]`, shipped
-size under 100 KB, and the real cases.
+size under 100 KB, the real cases, and the offline cache (`tests/offline.test.mjs`).
+
+The app opens offline after the first visit (`sw.js`, network first, cache only when the network
+fails; `/api/` is never cached): the questions, the rules and the request text run in the browser.
 
 After the tests passed, each rule below was broken on purpose, the suite run, and the file restored
 (06/11/2026). Each mutation made exactly one test fail:
