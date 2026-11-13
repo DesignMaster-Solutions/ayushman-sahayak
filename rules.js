@@ -217,3 +217,16 @@ export function requestText({ stage, situation }, lang) {
     L.sign,
   ].join('\n');
 }
+
+// Link that opens straight on the same result for whoever receives it. Only the language and the
+// three answers travel: nothing typed, nothing personal.
+export function shareUrl(origin, { stage, situation, age70 }, lang) {
+  return `${origin}/?${new URLSearchParams({ lang, stage, situation, age70 })}`;
+}
+
+// Answers from a shared link, or null unless all three are known values.
+export function answersFrom(search) {
+  const p = new URLSearchParams(search);
+  const a = { stage: p.get('stage'), situation: p.get('situation'), age70: p.get('age70') };
+  return STAGES.includes(a.stage) && SITUATIONS.includes(a.situation) && AGE70.includes(a.age70) ? a : null;
+}

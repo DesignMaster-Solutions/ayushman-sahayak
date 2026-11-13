@@ -1,4 +1,4 @@
-import { adviceFor, requestText, RULES, STAGES, SITUATIONS, AGE70 } from './rules.js';
+import { adviceFor, requestText, shareUrl, answersFrom, RULES, STAGES, SITUATIONS, AGE70 } from './rules.js';
 import { STRINGS } from './i18n.js';
 const $ = (id) => document.getElementById(id);
 const fill = (s, vars) => s.replace(/\{(\w+)\}/g, (_, k) => vars[k] ?? '');
@@ -131,6 +131,7 @@ function renderResult() {
     g.url ? link(g.url, t(`g_${g.id}`)) : el('b', { textContent: t(`g_${g.id}`) }),
     menuLine(g.menu))));
   $('letter').replaceChildren(letterBlock());
+  $('pass').href = `https://wa.me/?text=${encodeURIComponent(`${t('pass_text')} ${shareUrl(location.origin, answers, lang)}`)}`;
   $('worked-btns').hidden = worked;
   $('worked-thanks').hidden = !worked;
 }
@@ -138,6 +139,7 @@ function renderResult() {
 $('start').onclick = () => { answers = {}; index = 0; show('quiz'); };
 $('back').onclick = () => { if (index > 0) { index--; renderQuestion(); } else show('intro'); };
 $('restart').onclick = () => show('intro');
+$('pass').onclick = () => count('share_link');
 for (const b of document.querySelectorAll('[data-worked]')) {
   b.onclick = () => { worked = true; count(`worked_${b.dataset.worked}`); renderResult(); };
 }
@@ -145,7 +147,9 @@ for (const b of document.querySelectorAll('[data-lang]')) {
   b.onclick = () => { lang = b.dataset.lang; localStorage.setItem('as-lang', lang); render(); };
 }
 globalThis.speechSynthesis?.addEventListener?.('voiceschanged', () => view === 'result' && renderResult());
-render();
+// A link sent by a relative opens straight on the result they saw.
+const shared = answersFrom(location.search);
+if (shared) { answers = shared; index = QUESTIONS.length; advice = adviceFor(answers); show('result'); count('result', answers.situation); } else render();
 
 // Opens offline after the first visit (sw.js): the questions, the rules and the request need no network.
 navigator.serviceWorker?.register('sw.js').catch(() => {});

@@ -28,8 +28,8 @@
   <footer class="wrap foot"><p>Free and open-source: <a href="https://github.com/DesignMaster-Solutions/ayushman-sahayak">github.com/DesignMaster-Solutions/ayushman-sahayak</a></p></footer>
   <script type="module">
     import { STRINGS } from './i18n.js';
-    const EVENTS = ['result', 'copy', 'share', 'worked_yes', 'worked_no', 'worked_notyet'];
-    const LABEL = { result: 'Results shown', copy: 'Requests copied', share: 'Requests sent on WhatsApp', worked_yes: 'It worked', worked_no: 'It did not work', worked_notyet: 'Not yet' };
+    const EVENTS = ['result', 'copy', 'share', 'share_link', 'worked_yes', 'worked_no', 'worked_notyet'];
+    const LABEL = { result: 'Results shown', copy: 'Requests copied', share: 'Requests sent on WhatsApp', share_link: 'Result link sent to someone else', worked_yes: 'It worked', worked_no: 'It did not work', worked_notyet: 'Not yet' };
     const { since, counts } = await (await fetch('/api/stats', { cache: 'no-store' })).json();
     const esc = (s) => String(s).replace(/[&<>"]/g, (c) => `&#${c.charCodeAt(0)};`);
     const row = (cells) => `<tr>${cells.map((c, i) => (i === 0 ? `<th>${esc(c)}</th>` : `<td>${esc(c)}</td>`)).join('')}</tr>`;
